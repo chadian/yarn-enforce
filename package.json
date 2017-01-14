@@ -1,0 +1,12 @@
+{
+  "name": "yarn-enforce",
+  "version": "0.1.0",
+  "description": "Enforce yarn usage for package installation",
+  "main": "index.js",
+  "author": "Chad Carbert",
+  "license": "MIT",
+  "repository": {
+    "url": "git@github.com:chadian/yarn-enforce.git",
+    "type": "git"
+  }
+}
